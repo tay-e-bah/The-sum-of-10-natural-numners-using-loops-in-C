@@ -1,4 +1,4 @@
-# The-sum-of-10-natural-numners-using-loops-in-C
+# The-sum-of-10-natural-numbers-using-loops-in-C
 # Description
 
 This repository contains a C program that calculates and prints the sum of the first 10 natural numbers using three different looping constructs:
