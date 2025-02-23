@@ -1,0 +1,1 @@
+# The-sum-of-10-natural-numners-using-loops-in-C
